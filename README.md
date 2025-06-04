@@ -22,10 +22,14 @@
 
 EXEMPLO DE USO:
                 $ python guess_number.py
+                
                 Bem-vindo ao Guess Number do Chel!
+                
                 Digite um número limite para o desafio: 10
                 Advinhe o número: 5
+                
                 Você digitou um número menor... Tente mais uma vez aí
                 Advinhe o número: 8
+                
                 Parabéns! Você acertou!!
                 Você tentou 2 vezes até acertar
